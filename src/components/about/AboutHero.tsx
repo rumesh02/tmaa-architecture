@@ -37,7 +37,7 @@ function AboutHero() {
 
         <p className="mt-8 max-w-md text-base leading-relaxed text-bone/70 sm:text-lg">
           TMAA Architects is a Colombo-based practice founded on a single
-          belief — that the finest buildings begin by listening to their place,
+          belief - that the finest buildings begin by listening to their place,
           their climate and the people they are made for.
         </p>
 

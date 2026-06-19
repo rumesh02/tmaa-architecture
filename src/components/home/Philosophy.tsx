@@ -36,7 +36,7 @@ function Philosophy() {
                 Rooted in the tradition of tropical modernism, our work begins
                 with the land. We trace the path of the sun, the fall of the
                 rain and the breath of the monsoon, then shape spaces that
-                weather gracefully and feel inevitable — quietly luxurious,
+                weather gracefully and feel inevitable - quietly luxurious,
                 deeply liveable.
               </p>
             </Reveal>

@@ -66,7 +66,7 @@ function Navbar() {
         className={`fixed inset-x-0 top-0 z-50 transition-all duration-500 ${
           overHero
             ? 'bg-transparent py-6'
-            : 'border-b border-line bg-bone/85 py-4 backdrop-blur-md'
+            : 'border-b border-line bg-bone/70 py-4 backdrop-blur-md'
         }`}
       >
         <div className="mx-auto flex max-w-[1600px] items-center justify-between px-6 md:px-10 lg:px-14">
